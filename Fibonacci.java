@@ -12,6 +12,7 @@ class prime {
 if(count==0){
   System.out.println("prime number);
 }
+wl
 else{
 System.out.println("not a prime number);
 }
